@@ -12,18 +12,9 @@ Mirror of [Sukka’s Ruleset](https://ruleset.skk.moe) — rebuilt, self-hosted,
 在 Surge、Loon 或 Quantumult X 中使用以下地址即可替代官方源。
 
 ---
-
-
-
-⚡ 特点
-•🚀 CDN 加速加载 – 通过 jsDelivr 全球节点缓存，访问延迟低至 50 ms。
-•🧩 模块化结构 – 按需调用 domainset / ip / non_ip 三类规则。
-•🔄 自动更新（可接 GitHub Actions） – 永远保持最新规则。
-•🧠 兼容所有主流代理工具 – Surge、Loon、Quantumult X、Stash 全适配。
-
     • 🚀 CDN 加速加载 – 通过 jsDelivr 全球节点缓存，访问延迟低至 50 ms。
-    • 🔒 广告拦截
-    • 📱 应用分流
-    • 🌍 地区访问控制
+    • 🧩 模块化结构 – 按需调用 domainset / ip / non_ip 三类规则。
+    • 🔄 自动更新（可接 GitHub Actions） – 永远保持最新规则。
+    • 🧠 兼容所有主流代理工具 – Surge、Loon、Quantumult X、Stash 全适配。
 
 
