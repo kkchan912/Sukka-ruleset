@@ -18,3 +18,19 @@ Mirror of [Sukka’s Ruleset](https://ruleset.skk.moe) — rebuilt, self-hosted,
     • 🧠 兼容所有主流代理工具 – Surge、Loon、Quantumult X、Stash 全适配。
 
 
+
+
+ruleset-mirror/
+├── non_ip/
+│   ├── apple_cdn.conf
+│   ├── domestic.conf
+│   ├── ai.conf
+│   ├── global.conf
+│   └── direct.conf
+├── ip/
+│   ├── china_ip.conf
+│   └── reject.conf
+└── domainset/
+    ├── reject.conf
+    └── cdn.conf
+
