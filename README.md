@@ -17,6 +17,10 @@ Mirror of [Sukka’s Ruleset](https://ruleset.skk.moe) — rebuilt, self-hosted,
     • 🔄 自动更新（可接 GitHub Actions） – 永远保持最新规则。
     • 🧠 兼容所有主流代理工具 – Surge、Loon、Quantumult X、Stash 全适配。
 
+
+🧠 维护思路
+
+
 本项目基于 Sukka’s Ruleset 自动同步，遵循 AGPL 3.0 协议。
 目标是提供一个稳定、快速、可自定义的规则源，让 Surge 在任何网络环境下都能顺畅运行。
 
