@@ -1,13 +1,13 @@
 🧩 kkchan912 / ruleset-mirror
 
 **Surge / Loon / Quantumult X 通用规则镜像站**  
-Mirror of [Sukka’s Ruleset](https://ruleset.skk.moe) — rebuilt, self-hosted, and always fresh.
+Mirror of [SukkaW’s Ruleset](https://ruleset.skk.moe) — rebuilt, self-hosted, and always fresh.
 
 ---
 
 ## 📘 简介
 
-这是我自建的 **Sukka Ruleset 镜像仓库**，专为 Surge iOS “回国场景” 优化使用。  
+这是我自建的 **SukkaW Ruleset 镜像仓库**，专为 Surge iOS “回国场景” 优化使用。  
 所有规则每日自动同步至 GitHub，并通过 **jsDelivr CDN** 分发，加载稳定且极速。  
 在 Surge、Loon 或 Quantumult X 中使用以下地址即可替代官方源。
 
@@ -21,11 +21,11 @@ Mirror of [Sukka’s Ruleset](https://ruleset.skk.moe) — rebuilt, self-hosted,
 
 🧠 维护思路
 
-本项目基于 Sukka’s Ruleset 自动同步，遵循 AGPL 3.0 协议。
+本项目基于 SukkaW’s Ruleset 自动同步，遵循 AGPL 3.0 协议。
 目标是提供一个稳定、快速、可自定义的规则源，让 Surge 在任何网络环境下都能顺畅运行。
 
 ---
 
 📜 License
 
-AGPL-3.0 © Sukka / kkchan912
+AGPL-3.0 © SukkaW / kkchan912
