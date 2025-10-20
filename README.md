@@ -1,5 +1,5 @@
 
-# 🧩 kkchan912 / ruleset-mirror
+# 🧩 kkchan912 / ruleset-set**
 
 **Surge / Loon / Quantumult X 通用规则镜像站**  
 Mirror of [SukkaW’s Ruleset](https://ruleset.skk.moe) — rebuilt, self-hosted, and always fresh.
