@@ -1,3 +1,6 @@
+![项目功能演示图](demo.gif)
+
+
 🧩 kkchan912 / ruleset-mirror
 
 **Surge / Loon / Quantumult X 通用规则镜像站**  
