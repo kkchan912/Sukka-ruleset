@@ -1,4 +1,4 @@
-
+:telephone_receiver:
 
 # 🧩 kkchan912 / ruleset-set **欢迎使用！**
 
