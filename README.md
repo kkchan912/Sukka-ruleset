@@ -1,4 +1,4 @@
-![项目功能演示图](demo.gif)
+![项目功能演示图](hello.gif)
 
 
 🧩 kkchan912 / ruleset-mirror
