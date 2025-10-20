@@ -1,4 +1,4 @@
-![google](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+![google](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/google.gif)
 
 
 # 🧩 kkchan912 / ruleset-set **欢迎使用！**
