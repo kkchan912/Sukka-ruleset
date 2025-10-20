@@ -1,4 +1,37 @@
-:telephone_receiver:
+<!-- 🎉 Programmer Mood 101 💻😂 -->
+# 🧠 Programmer Mood 101 💻😂
+> *Talk is cheap. Show me the code.* — Linus Torvalds  
+
+<img src="https://user-images.githubusercontent.com/1234567/abcdef123456.jpg" alt="Talk is cheap. Show me the code." width="720"/>
+
+---
+
+## 💬 项目简介
+这个仓库专为「CV 战士」「代码哲学家」和「凌晨还在 debug 的灵魂」而生。  
+这里没有废话，只有 bug、笑话和一点点秃头的智慧 🧑‍💻💥  
+
+---
+
+## 🔥 核心信条
+- 别造轮子，除非你打算卖轮子。  
+- 有 bug？先加日志，再加祈祷。  
+- 能 CV 绝对不手敲。  
+- “It works on my machine.” —— 世界通用免责条款。  
+- 如果一切都没问题，请检查你是否在测试环境。  
+
+---
+
+## ⚙️ Quick Start
+```bash
+git clone https://github.com/yourname/programmer-mood-101.git  
+cd programmer-mood-101  
+npm install && npm start
+
+
+
+
+
+
 
 # 🧩 kkchan912 / ruleset-set **欢迎使用！**
 
