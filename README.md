@@ -17,6 +17,18 @@ _ | |) |_ | || | () | |  __
 状态：低电量模式 (Low Battery Mode)
 警告：此开发者随时可能因咖啡因不足而崩溃。
 
+## 🔗 实用链接
+
+- [我的**最新**项目文档](https://github.com/YOUR_USERNAME/awesome-project/blob/main/DOCS.md)
+- [如何**成为亿万富翁**的秘密教程](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  <-- 别点，骗你的！
+- [联系我 (严肃脸)](mailto:youremail@example.com)
+
+---
+
+### 特别鸣谢
+> 感谢所有 **点开第二个链接** 的朋友。你们的勇敢（和天真）是我的灵感来源。
+
+
 
 # 💡 项目特色
 
