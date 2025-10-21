@@ -21,11 +21,36 @@ Sukkaw 的原仓库 `Sukkaw/Surge` 中包含了模块、脚本、规则集等大
 
 您可以直接复制所需规则文件的 Raw 链接，粘贴到您的工具中作为规则集订阅。
 
-**Raw 链接格式为：** https://www.google.com/search?q=https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/文件名.list
+**Raw 链接格式为：**
 
+https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/文件名.list
 
-## 📜 许可证 (License)
-### ⚠️ **The Copy-Paste and Pray (CPP) License**
+### 常用规则示例
+
+* **广告拦截 (Ad)**
+    ```
+    [https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/Ad.list](https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/Ad.list)
+    ```
+* **国际流媒体 (GlobalMedia)**
+    ```
+    [https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/GlobalMedia.list](https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/GlobalMedia.list)
+    ```
+* **国内网站 (China)**
+    ```
+    [https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/China.list](https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/China.list)
+    ```
+* **Bilibili**
+    ```
+    [https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/Bilibili.list](https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/Bilibili.list)
+    ```
+* **(更多规则请直接查看本仓库文件列表)**
+
+## 
+致谢
+
+本项目所有规则均来自 [Sukkaw/Surge](https://github.com/Sukkaw/Surge) 仓库。
+
+感谢原作者 [Sukkaw](https://github.com/Sukkaw) 的辛勤维护。本项目遵循原仓库的开源许可协议。
 
 ```text
 除非另有明确说明，本项目所有代码均遵循以下原则：
