@@ -3,6 +3,27 @@
 ![维护者](https://img.shields.io/badge/Maintained_By-Coffee_and_Tears-blue)
 </p>
 
+# Sukkaw-Ruleset 规则集镜像
+
+[![Auto Update](https://github.com/kkchan912/Sukkaw-ruleset/actions/workflows/auto-update.yml/badge.svg)](https://github.com/kkchan912/Sukkaw-ruleset/actions/workflows/auto-update.yml)
+
+这是一个 [Sukkaw/Surge](https://github.com/Sukkaw/Surge) 规则集 (Ruleset) 的镜像仓库。
+
+## 仓库优势
+
+Sukkaw 的原仓库 `Sukkaw/Surge` 中包含了模块、脚本、规则集等大量内容。
+
+本项目**仅同步其 `Ruleset` 文件夹下的 `.list` 规则文件**，并将其存放于根目录，更方便在 Surge, Clash, Quantumult X 等工具中作为规则集 URL 直接引用。
+
+本项目已设置 GitHub Actions，每日自动从上游仓库同步更新，确保规则保持最新。
+
+## 🚀 如何使用
+
+您可以直接复制所需规则文件的 Raw 链接，粘贴到您的工具中作为规则集订阅。
+
+**Raw 链接格式为：**
+
+
 ## 📜 许可证 (License)
 ### ⚠️ **The Copy-Paste and Pray (CPP) License**
 
