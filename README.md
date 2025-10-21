@@ -48,14 +48,7 @@
 - 能 CV 绝对不手敲。  
 - “It works on my machine” 是世界通用免责条款。  
 
-### ⚙️ Quick Start  
-```bash
-git clone https://github.com/you/your-repo.git  
-cd your-repo  
-npm install && npm start
-
 ## 📜 许可证 (License)
-
 ### ⚠️ **The Copy-Paste and Pray (CPP) License**
 
 ```text
