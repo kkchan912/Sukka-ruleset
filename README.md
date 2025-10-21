@@ -21,7 +21,7 @@ Sukkaw 的原仓库 `Sukkaw/Surge` 中包含了模块、脚本、规则集等大
 
 您可以直接复制所需规则文件的 Raw 链接，粘贴到您的工具中作为规则集订阅。
 
-**Raw 链接格式为：**
+**Raw 链接格式为：** https://www.google.com/search?q=https://raw.githubusercontent.com/kkchan912/Sukkaw-ruleset/main/文件名.list
 
 
 ## 📜 许可证 (License)
