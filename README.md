@@ -2,6 +2,12 @@
 ![Bug 数量](https://img.shields.io/badge/Bugs_Found-Too_Many_To_Count-orange)
 ![维护者](https://img.shields.io/badge/Maintained_By-Coffee_and_Tears-blue)
 
+## 今日份的编程箴言
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="随机笑话" />
+</p>
+
+
 # 💡 项目特色
 
 > **免责声明：** 以下内容可能包含夸大、吹嘘和一小部分事实。
